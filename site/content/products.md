@@ -3,7 +3,7 @@ title: Nosso Café
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: O que nós oferecemos
+heading: O que oferecemos
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
